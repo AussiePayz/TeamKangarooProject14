@@ -4,13 +4,11 @@ import org.openqa.selenium.support.PageFactory;
 
 import utilities.driver;
 
-public class homePage {
-	public homePage() {
+public class brandsPage {
+	
+	public brandsPage() {
 		
 		PageFactory.initElements(driver.getDriver(), this);
-		}
-	
-	
-	
+	}
 
 }

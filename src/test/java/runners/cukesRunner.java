@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = "src\\test\\resources\\features",
 		glue = "stepDef",
 		dryRun = false
-		//,tags = "@tag3"
+		//,tags = ""
 		
 
 		)
